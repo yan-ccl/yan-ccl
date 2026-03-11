@@ -70,9 +70,9 @@
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| PROJECT_ONE [<sup>1</sup>](https://github.com/yan_ccl/PROJECT_ONE) | 一个用于练手的后台管理系统。 | Java / Spring Boot / MySQL |
-| PROJECT_TWO [<sup>2</sup>](https://github.com/yan_ccl/PROJECT_TWO) | 一个前后端分离的博客系统。 | Vue / TypeScript / Node.js |
-| PROJECT_THREE [<sup>3</sup>](https://github.com/yan_ccl/PROJECT_THREE) | 一个自动化脚本或数据处理工具。 | Python / Automation |
+| campus-helper <sup>1</sup> [<sup>1</sup>](https://github.com/yan_ccl/PROJECT_ONE) | 一个用于练手的后台管理系统。 | Java / Spring Boot / MySQL |
+| blog-system <sup>2</sup> [<sup>2</sup>](https://github.com/yan_ccl/PROJECT_TWO) | 一个前后端分离的博客系统。 | Vue / TypeScript / Node.js |
+| python-tools <sup>3</sup> [<sup>3</sup>](https://github.com/yan_ccl/PROJECT_THREE) | 一个自动化脚本或数据处理工具。 | Python / Automation |
 
 ---
 
@@ -96,7 +96,7 @@
 <a href="www.google.com">
   <img src="https://img.shields.io/badge/Blog-Visit-blue?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
-<a href="mailto:xdong1202@gmail.com">
+<a href="mailto:xdong@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
